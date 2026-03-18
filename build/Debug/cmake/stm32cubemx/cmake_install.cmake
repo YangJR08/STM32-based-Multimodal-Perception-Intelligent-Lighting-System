@@ -1,4 +1,4 @@
-# Install script for directory: D:/STM32CodeSpace/Multimodal_perception_intelligent_lighting_system/Multimodal_perception_intelligent_lighting_system/cmake/stm32cubemx
+# Install script for directory: D:/STM32CodeSpace/Multimodal_perception_intelligent_lighting_system/STM32-based-Multimodal-Perception-Intelligent-Lighting-System/cmake/stm32cubemx
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,6 +40,6 @@ endif()
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "D:/STM32CodeSpace/Multimodal_perception_intelligent_lighting_system/Multimodal_perception_intelligent_lighting_system/build/Debug/cmake/stm32cubemx/install_local_manifest.txt"
+  file(WRITE "D:/STM32CodeSpace/Multimodal_perception_intelligent_lighting_system/STM32-based-Multimodal-Perception-Intelligent-Lighting-System/build/Debug/cmake/stm32cubemx/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

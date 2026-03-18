@@ -1,8 +1,8 @@
 {
 	"InstallScripts" : 
 	[
-		"D:/STM32CodeSpace/Multimodal_perception_intelligent_lighting_system/Multimodal_perception_intelligent_lighting_system/build/Debug/cmake_install.cmake",
-		"D:/STM32CodeSpace/Multimodal_perception_intelligent_lighting_system/Multimodal_perception_intelligent_lighting_system/build/Debug/cmake/stm32cubemx/cmake_install.cmake"
+		"D:/STM32CodeSpace/Multimodal_perception_intelligent_lighting_system/STM32-based-Multimodal-Perception-Intelligent-Lighting-System/build/Debug/cmake_install.cmake",
+		"D:/STM32CodeSpace/Multimodal_perception_intelligent_lighting_system/STM32-based-Multimodal-Perception-Intelligent-Lighting-System/build/Debug/cmake/stm32cubemx/cmake_install.cmake"
 	],
 	"Parallel" : false
 }
