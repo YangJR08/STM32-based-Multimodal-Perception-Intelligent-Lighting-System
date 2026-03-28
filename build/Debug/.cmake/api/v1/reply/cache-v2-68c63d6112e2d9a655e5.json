@@ -1183,10 +1183,10 @@
 			[
 				{
 					"name" : "HELPSTRING",
-					"value" : "The CMake toolchain file"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "UNINITIALIZED",
 			"value" : "D:/STM32CodeSpace/Multimodal_perception_intelligent_lighting_system/STM32-based-Multimodal-Perception-Intelligent-Lighting-System/cmake/gcc-arm-none-eabi.cmake"
 		},
 		{
